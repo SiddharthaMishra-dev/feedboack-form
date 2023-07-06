@@ -1,0 +1,32 @@
+
+*{
+    font-family: sans-serif;
+}
+.form-heading{
+    font-size: 3rem;
+    color:#497036
+}
+.form-container{
+    background-color:#f1f1f1;
+    padding:3%;
+    border-radius: 7px;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+form{
+    width: 50%;
+    border-radius: 7px;
+    background-color: #B9DBA7 ;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.choice-container{
+    margin:5% 2%;
+}
+.form-content{
+    padding: 1%;
+}
